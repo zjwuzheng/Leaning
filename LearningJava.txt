@@ -1,87 +1,87 @@
-1.1.cmd ²Ù×÷ÃüÁî£º
-	d£º µ½DÅÌ
-	dir ÏÔÊ¾Ä¿Â¼ÏÂÎÄ¼þ
-	cd ´ò¿ªÎÄ¼þ¼Ð
-	md ´´½¨ÎÄ¼þ¼Ð
-	copy con ´´½¨ÎÄ¼þ
-	ctrl+c ÍË³öÎÄ¼þ±à¼­
-	cd. µ½µ±Ç°Ä¿Â¼
-	cd.. µ½Ç°Ò»Ä¿Â¼
-	cd\ µ½¸ùÄ¿Â¼
-	rd É¾³ýÎÄ¼þ¼Ð ±ØÐë¿ÕÎÄ¼þ¼Ð
-	del É¾³ýÎÄ¼þ "*"Í¨Åä·ûºÅ eg."*.txt"
-	cls ÇåÆÁ
-	exit ÍË³ö
-	javac ±àÒëjavaÎÄ¼þ³ÉclassÎÄ¼þ
-	java ÔËÐÐclassÎÄ¼þ
-	set ¿ÉÒÔÁÐ³ö»·¾³±äÁ¿
-	set ±äÁ¿Ãû ²éÑ¯¾ßÌå»·¾³±äÁ¿ eg. set path
-	set path= ÉèÖÃÁÙÊ±±äÁ¿ ½ö¶Ôµ±Ç°docs´°¿ÚÓÐÐ§
-	set classpath=Â·¾¶ ÈÎÒâÎÄ¼þ¼ÐÄÚ¿ÉÒÔÔËÐÐjava classÎÄ¼þ JavaÔËÐÐclasspathÏÂµÄclassÎÄ¼þ£¬ÈôÃ»ÓÐ»á±¨´í
-	set classpath=.;Â·¾¶ ²Å»áÔËÐÐµ±Ç°Ä¿Â¼µÄclassÎÄ¼þ
-1.2.javaËµÃ÷
-	javase ±ê×¼°æ Ñ§Ï°»ù´¡
-	javaee ÆóÒµ°æ Ñ§Ï°ÖØµã
-	javame ÒÆ¶¯°æ ²»Ñ§Ï°
-	Ö´ÐÐÆ½Ì¨£ºJRE °üÀ¨JVNÐéÄâ»ú ºÍ javaºËÐÄÀà¿â
-	¿ª·¢ÕßÆ½Ì¨£ºJDK °üº¬JRE
-1.3.ËµÃ÷£º
-	ÅäÖÃ»·¾³±äÁ¿ ½¨Òé  ÅäÖÃÔÚÓÃ»§»·¾³±äÁ¿ÖÐ
-	ÐÂ½¨JAVA_HOME±äÁ¿ java\jdk*** Ö¸¶¨BINÉÏÒ»²ãÄ¿Â¼
-	PATHÖÐÒýÈë %JAVA_HOME%\BIN;
-	ÍÆ¼ö±à¼­Æ÷£ºUtralEditor
-	javaÎÄ¼þºó×º£º.java
-	±ØÐë×ª»»³ÉclassÎÄ¼þ ¶þ½øÖÆÎÄ¼þ²ÅÄÜÔËÐÐ
-	´ò¿ªÃüÁîÐÐcmd ½øÐÐ±àÒë javac
+1.1.cmd æ“ä½œå‘½ä»¤ï¼š
+	dï¼š åˆ°Dç›˜
+	dir æ˜¾ç¤ºç›®å½•ä¸‹æ–‡ä»¶
+	cd æ‰“å¼€æ–‡ä»¶å¤¹
+	md åˆ›å»ºæ–‡ä»¶å¤¹
+	copy con åˆ›å»ºæ–‡ä»¶
+	ctrl+c é€€å‡ºæ–‡ä»¶ç¼–è¾‘
+	cd. åˆ°å½“å‰ç›®å½•
+	cd.. åˆ°å‰ä¸€ç›®å½•
+	cd\ åˆ°æ ¹ç›®å½•
+	rd åˆ é™¤æ–‡ä»¶å¤¹ å¿…é¡»ç©ºæ–‡ä»¶å¤¹
+	del åˆ é™¤æ–‡ä»¶ "*"é€šé…ç¬¦å· eg."*.txt"
+	cls æ¸…å±
+	exit é€€å‡º
+	javac ç¼–è¯‘javaæ–‡ä»¶æˆclassæ–‡ä»¶
+	java è¿è¡Œclassæ–‡ä»¶
+	set å¯ä»¥åˆ—å‡ºçŽ¯å¢ƒå˜é‡
+	set å˜é‡å æŸ¥è¯¢å…·ä½“çŽ¯å¢ƒå˜é‡ eg. set path
+	set path= è®¾ç½®ä¸´æ—¶å˜é‡ ä»…å¯¹å½“å‰docsçª—å£æœ‰æ•ˆ
+	set classpath=è·¯å¾„ ä»»æ„æ–‡ä»¶å¤¹å†…å¯ä»¥è¿è¡Œjava classæ–‡ä»¶ Javaè¿è¡Œclasspathä¸‹çš„classæ–‡ä»¶ï¼Œè‹¥æ²¡æœ‰ä¼šæŠ¥é”™
+	set classpath=.;è·¯å¾„ æ‰ä¼šè¿è¡Œå½“å‰ç›®å½•çš„classæ–‡ä»¶
+1.2.javaè¯´æ˜Ž
+	javase æ ‡å‡†ç‰ˆ å­¦ä¹ åŸºç¡€
+	javaee ä¼ä¸šç‰ˆ å­¦ä¹ é‡ç‚¹
+	javame ç§»åŠ¨ç‰ˆ ä¸å­¦ä¹ 
+	æ‰§è¡Œå¹³å°ï¼šJRE åŒ…æ‹¬JVNè™šæ‹Ÿæœº å’Œ javaæ ¸å¿ƒç±»åº“
+	å¼€å‘è€…å¹³å°ï¼šJDK åŒ…å«JRE
+1.3.è¯´æ˜Žï¼š
+	é…ç½®çŽ¯å¢ƒå˜é‡ å»ºè®®  é…ç½®åœ¨ç”¨æˆ·çŽ¯å¢ƒå˜é‡ä¸­
+	æ–°å»ºJAVA_HOMEå˜é‡ java\jdk*** æŒ‡å®šBINä¸Šä¸€å±‚ç›®å½•
+	PATHä¸­å¼•å…¥ %JAVA_HOME%\BIN;
+	æŽ¨èç¼–è¾‘å™¨ï¼šUtralEditor
+	javaæ–‡ä»¶åŽç¼€ï¼š.java
+	å¿…é¡»è½¬æ¢æˆclassæ–‡ä»¶ äºŒè¿›åˆ¶æ–‡ä»¶æ‰èƒ½è¿è¡Œ
+	æ‰“å¼€å‘½ä»¤è¡Œcmd è¿›è¡Œç¼–è¯‘ javac
 
-2.1.±êÊ¶·û
-	26¸ö´óÐ¡Ð´Ó¢ÎÄ×Ö·û£¬ÑÏ¸ñÇø·Ö´óÐ¡Ð´£¬Êý×Ö0-9£¬·ûºÅ_ $ Êý×Ö²»ÄÜ¿ªÍ·
-	ÀàÃûºÍ½Ó¿ÚÃûµÄ¹æ·¶£ºÊ××Ö·û±ØÐë´óÐ´ eg£ºPerson Èç¹û¶à¸öµ¥´Ê¹¹³É£¬Ã¿¸öµ¥´Ê¶¼´óÐ´
-	±äÁ¿ÃûºÍ·½·¨Ãû£ºÒ»°ãÊ××Ö·û²»´óÐ´£¬Èô¶à¸öµ¥´Ê¹¹³É£¬´ÓµÚ¶þ¸öµ¥´Ê¿ªÊ¼Ê××Ö·û´óÐ´£¬Õâ½ÐÍÕ·åÄ£Ê½
-	°üÃû£º¶¼Ð¡Ð´
-	³£Á¿£ºËùÓÐ×Ö·û´óÐ´£¬¶à¸öµ¥´Ê¼äÓÃ_·Ö¸ô
-2.2.¹Ø¼ü×Ö
-	jdk¶¨ÒåµÄ±êÊ¶·û²»ÄÜÓÃ
-2.3.javaÖÐµÄ×¢ÊÍ
-	¸ø³ÌÐòËµÃ÷µÄ×÷ÓÃ:
-	¶àÐÐ×¢ÊÍ£º/* xxx */ ÓÃÓÚ·½·¨ÄÚµÄ¶àÐÐ£¬ÀàµÄ¶àÐÐ
-	µ¥ÐÐ×¢ÊÍ£º½¨Òé·ÅÔÚÒª×¢ÊÍ´úÂëµÄÉÏÃæ
-	ÎÄµµ×¢ÊÍ£º/** xxx */ ÓÃÓÚÀàµÄËµÃ÷ºÍ·½·¨µÄËµÃ÷
-2.5.³£Á¿ºÍ±äÁ¿
-	1.¿ª±ÙÄÚ´æ¿Õ¼ä£¨´´½¨jvm£©
-	2.¼ÓÔØÊý¾Ý
-	3.cpuÌáÈ¡Êý¾ÝÔËÐÐ
-2.6.Êý¾ÝÀàÐÍ
-	ÕûÐÍ
-	1.byte  1×Ö½Ú  8Î» -128~127
-	2.short 2×Ö½Ú 16Î»
-	3.int   4×Ö½Ú 32Î»
-	4.long  8×Ö½Ú 64Î» ÔÚÊý¾Ýºó¼Ól  eg£º18825892l
-	byteºÍshort¼ÆËãÊ±²úÉúµÄ½á¹¹Ä¬ÈÏÎªint
-	Ð¡Êý
-	5.flout  4×Ö½Ú     ÔÚÊý¾Ýºó¼Óf,±ØÐë¼Ó  eg£º18.6f
-	6.double 8×Ö½Ú     ÔÚÊý¾Ýºó¼Ód  eg£º18.65d
-	Èç¹ûÕûÐÍÊý¾Ý¼ÆËã½á¹û³öÏÖÐ¡Êý£¬½á¹ûÀàÐÍÄ¬ÈÏdouble
-	½¨ÒéÊ¹ÓÃdouble
-	×Ö·ûÊý¾Ý
-	7.char  2×Ö½Ú Ä¬ÈÏÖµ /u0000
-	²¼¶ûÊý¾Ý
-	8.boolean  2×Ö½Ú true false 
-3.1»ù±¾Êý¾ÝÀàÐÍ×ª»» ³ý²¼¶ûÒÔÍâ¶¼¿ÉÒÔÏà»¥×ª»»
-	1.×Ô¶¯ÀàÐÍ×ª»»
-	byte short char ²ÎÓëÔËËã»áÌáÉýµ½int
-	³£Á¿¼ÆËã¿ÉÒÔÓÃbyte short char ½ÓÊÕ£¬µ«²»ÄÜÒç³ö
-	2.Ç¿ÖÆ×ª»»
-	byte i1=(byte)150+20; Ç¿ÖÆ×ª»»³Ébyte
-	×¢Òâ£º
+2.1.æ ‡è¯†ç¬¦
+	26ä¸ªå¤§å°å†™è‹±æ–‡å­—ç¬¦ï¼Œä¸¥æ ¼åŒºåˆ†å¤§å°å†™ï¼Œæ•°å­—0-9ï¼Œç¬¦å·_ $ æ•°å­—ä¸èƒ½å¼€å¤´
+	ç±»åå’ŒæŽ¥å£åçš„è§„èŒƒï¼šé¦–å­—ç¬¦å¿…é¡»å¤§å†™ egï¼šPerson å¦‚æžœå¤šä¸ªå•è¯æž„æˆï¼Œæ¯ä¸ªå•è¯éƒ½å¤§å†™
+	å˜é‡åå’Œæ–¹æ³•åï¼šä¸€èˆ¬é¦–å­—ç¬¦ä¸å¤§å†™ï¼Œè‹¥å¤šä¸ªå•è¯æž„æˆï¼Œä»Žç¬¬äºŒä¸ªå•è¯å¼€å§‹é¦–å­—ç¬¦å¤§å†™ï¼Œè¿™å«é©¼å³°æ¨¡å¼
+	åŒ…åï¼šéƒ½å°å†™
+	å¸¸é‡ï¼šæ‰€æœ‰å­—ç¬¦å¤§å†™ï¼Œå¤šä¸ªå•è¯é—´ç”¨_åˆ†éš”
+2.2.å…³é”®å­—
+	jdkå®šä¹‰çš„æ ‡è¯†ç¬¦ä¸èƒ½ç”¨
+2.3.javaä¸­çš„æ³¨é‡Š
+	ç»™ç¨‹åºè¯´æ˜Žçš„ä½œç”¨:
+	å¤šè¡Œæ³¨é‡Šï¼š/* xxx */ ç”¨äºŽæ–¹æ³•å†…çš„å¤šè¡Œï¼Œç±»çš„å¤šè¡Œ
+	å•è¡Œæ³¨é‡Šï¼šå»ºè®®æ”¾åœ¨è¦æ³¨é‡Šä»£ç çš„ä¸Šé¢
+	æ–‡æ¡£æ³¨é‡Šï¼š/** xxx */ ç”¨äºŽç±»çš„è¯´æ˜Žå’Œæ–¹æ³•çš„è¯´æ˜Ž
+2.5.å¸¸é‡å’Œå˜é‡
+	1.å¼€è¾Ÿå†…å­˜ç©ºé—´ï¼ˆåˆ›å»ºjvmï¼‰
+	2.åŠ è½½æ•°æ®
+	3.cpuæå–æ•°æ®è¿è¡Œ
+2.6.æ•°æ®ç±»åž‹
+	æ•´åž‹
+	1.byte  1å­—èŠ‚  8ä½ -128~127
+	2.short 2å­—èŠ‚ 16ä½
+	3.int   4å­—èŠ‚ 32ä½
+	4.long  8å­—èŠ‚ 64ä½ åœ¨æ•°æ®åŽåŠ l  egï¼š18825892l
+	byteå’Œshortè®¡ç®—æ—¶äº§ç”Ÿçš„ç»“æž„é»˜è®¤ä¸ºint
+	å°æ•°
+	5.flout  4å­—èŠ‚     åœ¨æ•°æ®åŽåŠ f,å¿…é¡»åŠ   egï¼š18.6f
+	6.double 8å­—èŠ‚     åœ¨æ•°æ®åŽåŠ d  egï¼š18.65d
+	å¦‚æžœæ•´åž‹æ•°æ®è®¡ç®—ç»“æžœå‡ºçŽ°å°æ•°ï¼Œç»“æžœç±»åž‹é»˜è®¤double
+	å»ºè®®ä½¿ç”¨double
+	å­—ç¬¦æ•°æ®
+	7.char  2å­—èŠ‚ é»˜è®¤å€¼ /u0000
+	å¸ƒå°”æ•°æ®
+	8.boolean  2å­—èŠ‚ true false 
+3.1åŸºæœ¬æ•°æ®ç±»åž‹è½¬æ¢ é™¤å¸ƒå°”ä»¥å¤–éƒ½å¯ä»¥ç›¸äº’è½¬æ¢
+	1.è‡ªåŠ¨ç±»åž‹è½¬æ¢
+	byte short char å‚ä¸Žè¿ç®—ä¼šæå‡åˆ°int
+	å¸¸é‡è®¡ç®—å¯ä»¥ç”¨byte short char æŽ¥æ”¶ï¼Œä½†ä¸èƒ½æº¢å‡º
+	2.å¼ºåˆ¶è½¬æ¢
+	byte i1=(byte)150+20; å¼ºåˆ¶è½¬æ¢æˆbyte
+	æ³¨æ„ï¼š
 	byte b1=3, b2=4,b
-	b=b1+b2 //»á±¨´í
-	b=3+4  //²»»á±¨´í
+	b=b1+b2 //ä¼šæŠ¥é”™
+	b=3+4  //ä¸ä¼šæŠ¥é”™
 
-4.1ÔËËã·û
+4.1è¿ç®—ç¬¦
 	a++ a--
-	System.out.println(a++);²»»á¼Ó ÏÈÊä³öa
-	System.out.println(++a);»á¼Ó1
+	System.out.println(a++);ä¸ä¼šåŠ  å…ˆè¾“å‡ºa
+	System.out.println(++a);ä¼šåŠ 1
 
 	a+=5 a-=5 a*=5 a/=5
 
